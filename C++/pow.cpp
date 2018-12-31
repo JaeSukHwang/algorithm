@@ -17,5 +17,4 @@ int main (void)
 	}
 	printf("공식을 만족하는 k의 최대값은 %d", k);
 	return 0;
-
 }
