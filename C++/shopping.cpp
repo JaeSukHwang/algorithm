@@ -11,7 +11,7 @@ int main(void)
 		for(j=0; j<4; j++)
 			for(k=0; k<4; k++)
 				if(500*i+700*j+400*k==mny)
-						printf(("cream bread %d°³, shrimp snake %d°³, cola %d°³\n"),i+1,j+1,k+1);
+						printf(("cream bread %d, shrimp snake %d, cola %d\n"),i+1,j+1,k+1);
 	printf("How do you buy it?");
 	return 0;	
 }
