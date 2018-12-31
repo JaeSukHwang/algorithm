@@ -3,7 +3,7 @@
 int main (void)
 {
 	int num1, num2, i, gcd;
-	printf("두 개의 정수 입력: ");	
+	printf("input two integers : ");	
 	scanf("%d %d", &num1, &num2);
 	if(num1 < num2)
 		for(i=1;i<num1+1;i++)

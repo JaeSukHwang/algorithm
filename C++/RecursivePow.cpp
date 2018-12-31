@@ -12,8 +12,8 @@ int recursive (int a)
 int main (void)
 {
 	int num = 0;
-	printf("정수 입력: ");
+	printf("input integer : ");
 	scanf("%d", &num);
-	printf("2의 8승은 %d", recursive(8));
+	printf("2 pow %d equals %d",num, recursive(num));
 	return 0;
 }

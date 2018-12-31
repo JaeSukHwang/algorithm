@@ -4,7 +4,7 @@ int main (void)
 {
 	int n, k;
 	int pow = 1;
-	printf("상수 n 입력: ");
+	printf("input n: ");
 	scanf("%d", &n);
 	for(int i=0; i<n; i++)
 	{
@@ -15,6 +15,6 @@ int main (void)
 			break;
 		}
 	}
-	printf("공식을 만족하는 k의 최대값은 %d", k);
+	printf("the maximum value of k satisfies the formula is %d", k);
 	return 0;
 }
