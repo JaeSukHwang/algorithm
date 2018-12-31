@@ -1,2 +1,2 @@
 # algorithm
-algorithm study
+algorithm study preparing for SK Hynix
