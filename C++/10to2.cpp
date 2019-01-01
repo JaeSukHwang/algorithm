@@ -5,7 +5,7 @@ int main (void)
 	int num;
 	int arr[50];
 	int i=0;
-	printf("10진수 정수 입력: ");
+	printf("integer input as decimal: ");
 	scanf("%d", &num);
 	while(num>=1)
 	{
