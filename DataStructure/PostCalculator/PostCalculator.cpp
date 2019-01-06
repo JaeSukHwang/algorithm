@@ -5,7 +5,6 @@
 #include "ListBaseStack.h"
 #include "ListBaseStack.cpp"
 
-
 int EvalRPNExp(char exp[])
 {
 	Stack stack;

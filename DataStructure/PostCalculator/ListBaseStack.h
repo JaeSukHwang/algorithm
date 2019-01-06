@@ -1,5 +1,4 @@
 //ListBaseStack.h
-
 #ifndef __LB_STACK_H__
 #define __LB_STACK_H__
 

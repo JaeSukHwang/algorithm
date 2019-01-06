@@ -4,6 +4,7 @@
 
 int main(void)
 {
+	
 	char postExp1[] = "42*8+";
 	char postExp2[] = "123+*4/";
 	
