@@ -1,6 +1,6 @@
 # algorithm
 algorithm study preparing for SK Hynix
-
+* * *
 Dynamic Programming
 * * *
 Bruce Force
