@@ -1,5 +1,5 @@
 # algorithm
-algorithm study preparing for SK Hynix
+algorithm study
 * * *
 Dynamic Programming
 * * *
